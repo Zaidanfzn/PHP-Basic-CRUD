@@ -15,7 +15,7 @@ $products = fetchProducts();
     <div class="container mx-auto mt-10">
         <h1 class="text-3xl font-bold mb-5 text-center">Toko Roti Sederhana</h1>
 
-        <a href="create.php" class="bg-green-500 text-white p-2 rounded mb-5 inline-block">Tambah Produk</a>
+        <a href="create.php" class="bg-[#051F30] text-white p-2 rounded mb-5 inline-block">Tambah Produk</a>
 
         <table class="min-w-full bg-white">
             <thead>
